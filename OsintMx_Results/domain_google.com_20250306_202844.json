@@ -1,0 +1,20 @@
+{
+    "domain": "google.com",
+    "timestamp": "2025-03-06T20:28:43.815151",
+    "whois": {
+        "registrar": "MarkMonitor, Inc.",
+        "creation_date": "1997-09-15 04:00:00",
+        "expiration_date": "2028-09-14 04:00:00",
+        "name_servers": [
+            "NS1.GOOGLE.COM",
+            "NS2.GOOGLE.COM",
+            "NS3.GOOGLE.COM",
+            "NS4.GOOGLE.COM",
+            "ns4.google.com",
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com"
+        ]
+    },
+    "dns": {}
+}

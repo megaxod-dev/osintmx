@@ -1,0 +1,13 @@
+{
+    "phone": "+33647801822",
+    "timestamp": "2025-03-06T21:09:06.414913",
+    "info": {
+        "valide": true,
+        "pays": "France",
+        "opérateur": "Orange France",
+        "type": "Mobile",
+        "indicatif": "FR",
+        "format_international": "+33 6 47 80 18 22",
+        "format_national": "06 47 80 18 22"
+    }
+}
